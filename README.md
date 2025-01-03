@@ -1,4 +1,4 @@
-# 🎮 Fictional Game Landing Page
+ # 🎮 Fictional Game Landing Page
 
 An immersive and visually stunning landing page for a fictional adventure game. This project combines advanced UI/UX design, animations, and interactive features to create a captivating user experience.
 
